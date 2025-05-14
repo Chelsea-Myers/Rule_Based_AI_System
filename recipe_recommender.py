@@ -8,7 +8,8 @@ recipes = {
     "Caprese Salad": ["tomatoes", "mozzarella", "basil", "olive oil", "balsamic vinegar"],
     "Banana Smoothie": ["banana", "milk", "yogurt", "honey", "ice"],
     "Beef Burrito": ["tortilla", "ground beef", "cheese", "lettuce", "tomato"],
-    "Turkey Sandwich": ["bread", "turkey", "cheese", "lettuce", "tomato"]
+    "Turkey Sandwich": ["bread", "turkey", "cheese", "lettuce", "tomato"],
+    "Chicken Pot Pie": ["pie crust", "chicken", "cream of mushroom soup", "carrots", "green beans"]
 }
 
 # Function to recommend recipes

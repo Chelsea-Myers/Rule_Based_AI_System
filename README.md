@@ -76,12 +76,7 @@ This project involved designing a practical, rule-based system to recommend reci
 - **Common Ingredients:**  
   Ensuring common ingredients like salt and water don’t skew the results. I resolved this by excluding them from the missing ingredient list.
 
-### Comparison to Machine Learning:
-- Unlike machine learning models, this system relies entirely on prewritten rules rather than learning from data.  
-- **Advantages:** Simplicity and transparency.  
-- **Limitations:**  
-  - Limited scalability.  
-  - Adding complex logic or handling ambiguous inputs (e.g., "bread" vs. "whole-grain bread") requires extensive manual rule updates, which machine learning could handle more flexibly.
+
 
 
 
